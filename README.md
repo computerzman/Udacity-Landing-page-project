@@ -1,13 +1,10 @@
 # Landing Page Project
 
-## Table of Contents
+This project has the scope of converting a static web page in a single interactive page.
 
-* [Instructions](#instructions)
+It uses javascript to dynamically create navbar links based on the content, when a section is in the viewport it show the active state of that section.
 
-## Instructions
+During the scrolling the navbar is automatically hidden and showed according the direction of the scrolling.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+When scrolling past a configurable buffer, a new element will appear close to the bottom of the page. This element can be used by the users to scroll to the very top of the page.
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
